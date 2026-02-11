@@ -8,7 +8,7 @@ import {
   ResponsiveContainer,
   CartesianGrid,
   Area,
-  defs
+
 } from "recharts";
 import "./ChartSection.css";
 
