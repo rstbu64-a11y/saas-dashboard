@@ -1,0 +1,11 @@
+.chart-section {
+  margin: 80px 0;
+}
+
+.chart-box {
+  padding: 40px;
+  border-radius: 25px;
+  background: linear-gradient(145deg, #232526, #414345);
+  box-shadow: 0 20px 60px rgba(0,0,0,0.4);
+  color: white;
+}
